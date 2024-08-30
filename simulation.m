@@ -1,4 +1,3 @@
-% Mass-Spring-Damper System Parameters
 m = 1;        % Mass (kg)
 c = 0.5;      % Damping coefficient (Ns/m)
 k = 10;       % Spring constant (N/m)
